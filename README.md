@@ -12,7 +12,7 @@ Nokia X7/8.1 (codenamed _"PNX_sprout"_) are smartphones from Nokia, was announce
 | Storage      | 64/128GB eMMC 5.1 flash storage                 |
 | Battery      | Non-removable Li-Po 3500 mAh                    |
 | Dimensions   | 154.8 x 75.76 x 7.97 mm                         |
-| Display      | 2280 x 1080 (19:9), 6.18 inch                   |
+| Display      | 2246 x 1080 (18,7:9), 6.18 inch                   |
 
 
 ## How To Compile TWRP For PNX
